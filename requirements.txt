@@ -1,0 +1,10 @@
+chispa==0.11.1
+iniconfig==2.1.0
+packaging==25.0
+pluggy==1.6.0
+prettytable==3.16.0
+py4j==0.10.9.9
+Pygments==2.19.1
+pyspark==4.0.0
+pytest==8.4.0
+wcwidth==0.2.13
